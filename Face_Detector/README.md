@@ -26,8 +26,8 @@ Before you begin, ensure you have Python installed on your system. This script r
     ```
 
 2.  **Install the necessary libraries using pip:**
-    ```bash
-    pip install opencv-python cvzone mediapipe
+    ```
+     install requirements
     ```
 ## How to Run
 
