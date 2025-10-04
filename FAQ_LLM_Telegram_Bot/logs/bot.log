@@ -1,0 +1,176 @@
+2025-10-03 11:38:29.814 | INFO     | __main__:configure_logger:33 - Log level set to INFO for console and DEBUG for file
+2025-10-03 11:38:29.814 | INFO     | __main__:<module>:160 - Starting the bot...
+2025-10-03 11:38:31.597 | DEBUG    | __main__:should_process_message:61 - Conditions: [False, False, False]
+2025-10-03 11:38:31.599 | DEBUG    | __main__:should_process_message:61 - Conditions: [False, False, False]
+2025-10-03 11:38:31.599 | DEBUG    | __main__:should_process_message:61 - Conditions: [False, False, False]
+2025-10-03 11:39:58.187 | DEBUG    | __main__:should_process_message:61 - Conditions: [False, False, False]
+2025-10-03 11:40:38.065 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [False]
+2025-10-03 11:54:28.149 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 11:54:28.150 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 11:55:41.019 | DEBUG    | __main__:should_process_message:58 - Conditions: [False, False]
+2025-10-03 11:57:36.960 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [False]
+2025-10-03 11:57:42.241 | DEBUG    | __main__:should_process_message:58 - Conditions: [False, False]
+2025-10-03 11:57:46.641 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [False]
+2025-10-03 12:00:22.244 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [False]
+2025-10-03 12:01:08.695 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [False]
+2025-10-03 12:01:26.227 | DEBUG    | __main__:should_process_message:58 - Conditions: [False, False]
+2025-10-03 12:01:38.688 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [False]
+2025-10-03 12:04:01.281 | DEBUG    | __main__:should_process_message:58 - Conditions: [False, True]
+2025-10-03 12:04:28.488 | DEBUG    | __main__:should_process_message:58 - Conditions: [False, False]
+2025-10-03 12:04:44.049 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [False]
+2025-10-03 12:05:12.880 | DEBUG    | __main__:should_process_message:58 - Conditions: [False, True]
+2025-10-03 12:08:20.631 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:08:20.632 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:09:13.315 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:09:13.316 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:10:13.917 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:10:13.917 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:10:52.166 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:10:52.167 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:10:54.200 | DEBUG    | __main__:should_process_message:58 - Conditions: [True, False]
+2025-10-03 12:10:54.201 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:10:54.218 | DEBUG    | __main__:process_reaction:123 - Reaction: :thumbs_up:
+2025-10-03 12:10:55.846 | DEBUG    | __main__:should_process_message:58 - Conditions: [True, False]
+2025-10-03 12:11:00.093 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:11:00.101 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 12:11:16.633 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:11:16.641 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 12:13:39.853 | DEBUG    | __main__:should_process_message:58 - Conditions: [True, False]
+2025-10-03 12:13:44.671 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:13:44.676 | DEBUG    | __main__:process_reaction:123 - Reaction: :high_voltage:
+2025-10-03 12:14:33.208 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:14:33.214 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 12:15:10.817 | DEBUG    | __main__:should_process_message:58 - Conditions: [True, False]
+2025-10-03 12:15:47.133 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:15:47.140 | DEBUG    | __main__:process_reaction:123 - Reaction: :thinking_face:
+2025-10-03 12:20:15.880 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:20:15.881 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:23:21.256 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:23:21.262 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 12:25:52.085 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:25:52.086 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:26:47.581 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:26:47.586 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 12:26:57.685 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:26:57.692 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 12:28:33.637 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:28:33.638 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:31:58.657 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:31:58.658 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:32:31.721 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:32:31.722 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:33:27.647 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 12:33:27.662 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 12:42:16.769 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:42:16.770 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 12:44:21.622 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 12:44:21.623 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 13:09:45.460 | INFO     | __main__:configure_logger:33 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:09:45.461 | INFO     | __main__:<module>:162 - Starting the bot...
+2025-10-03 13:11:23.258 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:11:23.274 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 13:11:37.525 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:11:37.532 | DEBUG    | __main__:process_reaction:123 - Reaction: :pile_of_poo:
+2025-10-03 13:11:37.870 | DEBUG    | __main__:should_process_message:58 - Conditions: [True, True]
+2025-10-03 13:11:50.547 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:11:50.554 | DEBUG    | __main__:process_reaction:123 - Reaction: :thinking_face:
+2025-10-03 13:12:01.483 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:12:01.488 | DEBUG    | __main__:process_reaction:123 - Reaction: :high_voltage:
+2025-10-03 13:12:18.619 | DEBUG    | __main__:should_process_message:58 - Conditions: [True, False]
+2025-10-03 13:12:24.985 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:12:24.993 | DEBUG    | __main__:process_reaction:123 - Reaction: :high_voltage:
+2025-10-03 13:12:54.785 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:12:54.792 | DEBUG    | __main__:process_reaction:123 - Reaction: :high_voltage:
+2025-10-03 13:16:26.985 | DEBUG    | __main__:should_process_message:58 - Conditions: [True, True]
+2025-10-03 13:16:27.960 | ERROR    | src.telegram_utils:get_message_content:79 - Error forwarding message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: the message can't be forwarded
+2025-10-03 13:16:52.606 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:16:52.610 | DEBUG    | __main__:process_reaction:123 - Reaction: :high_voltage:
+2025-10-03 13:17:42.993 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:17:43.001 | DEBUG    | __main__:process_reaction:123 - Reaction: :high_voltage:
+2025-10-03 13:21:06.984 | DEBUG    | __main__:should_process_reaction:65 - Conditions: [True]
+2025-10-03 13:21:06.993 | DEBUG    | __main__:process_reaction:123 - Reaction: :high_voltage:
+2025-10-03 13:23:53.877 | INFO     | __main__:configure_logger:34 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:23:53.877 | INFO     | __main__:<module>:195 - Starting the bot...
+2025-10-03 13:23:55.073 | DEBUG    | __main__:should_process_message:59 - Conditions: [True, True]
+2025-10-03 13:23:55.074 | DEBUG    | __main__:should_process_reaction:66 - Conditions: [True]
+2025-10-03 13:23:55.103 | DEBUG    | __main__:process_reaction:156 - Reaction: :high_voltage:
+2025-10-03 13:23:56.073 | ERROR    | src.telegram_utils:get_message_content:79 - Error forwarding message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: the message can't be forwarded
+2025-10-03 13:23:56.074 | ERROR    | src.telegram_utils:get_message_content:79 - Error forwarding message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to forward not found
+2025-10-03 13:23:56.399 | DEBUG    | __main__:should_process_reaction:66 - Conditions: [True]
+2025-10-03 13:23:56.428 | DEBUG    | __main__:process_reaction:156 - Reaction: :high_voltage:
+2025-10-03 13:26:01.886 | INFO     | __main__:configure_logger:34 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:26:01.887 | INFO     | __main__:<module>:195 - Starting the bot...
+2025-10-03 13:26:57.220 | INFO     | __main__:configure_logger:34 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:26:57.221 | INFO     | __main__:<module>:195 - Starting the bot...
+2025-10-03 13:29:01.150 | INFO     | __main__:configure_logger:34 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:29:01.150 | INFO     | __main__:<module>:199 - Starting the bot...
+2025-10-03 13:31:44.972 | DEBUG    | __main__:should_process_reaction:66 - Conditions: [True]
+2025-10-03 13:31:44.978 | DEBUG    | __main__:process_reaction:160 - Reaction: :thinking_face:
+2025-10-03 13:31:56.453 | DEBUG    | __main__:should_process_message:59 - Conditions: [True, True]
+2025-10-03 13:31:56.756 | ERROR    | src.telegram_utils:get_message_content:79 - Error forwarding message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: the message can't be forwarded
+2025-10-03 13:33:57.176 | INFO     | __main__:configure_logger:34 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:33:57.176 | INFO     | __main__:<module>:204 - Starting the bot...
+2025-10-03 13:33:58.826 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:33:58.836 | DEBUG    | __main__:process_reaction:165 - Reaction: :pile_of_poo:
+2025-10-03 13:34:41.049 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:34:41.059 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:35:57.041 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:35:57.048 | DEBUG    | __main__:process_reaction:165 - Reaction: :pile_of_poo:
+2025-10-03 13:36:00.619 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:36:00.628 | DEBUG    | __main__:process_reaction:165 - Reaction: :pile_of_poo:
+2025-10-03 13:37:00.443 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:37:00.450 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:37:22.994 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:37:22.996 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:37:30.471 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:37:30.480 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:38:13.946 | INFO     | __main__:configure_logger:34 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:38:13.946 | INFO     | __main__:<module>:204 - Starting the bot...
+2025-10-03 13:39:08.775 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:39:08.793 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:39:33.726 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, True]
+2025-10-03 13:39:56.830 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, True]
+2025-10-03 13:40:33.687 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, False]
+2025-10-03 13:40:40.807 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, True]
+2025-10-03 13:43:15.628 | INFO     | __main__:configure_logger:34 - Log level set to DEBUG for console and DEBUG for file
+2025-10-03 13:43:15.629 | INFO     | __main__:<module>:204 - Starting the bot...
+2025-10-03 13:43:27.165 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, False]
+2025-10-03 13:43:32.015 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:43:32.032 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:44:10.325 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:44:10.333 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:48:49.803 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:48:49.811 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:49:32.865 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:49:32.871 | DEBUG    | __main__:process_reaction:165 - Reaction: :face_with_raised_eyebrow:
+2025-10-03 13:49:34.109 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:49:34.111 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:49:44.344 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:49:44.349 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:50:00.798 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:50:00.806 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:52:35.360 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, False]
+2025-10-03 13:52:38.965 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:52:38.974 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:53:37.434 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, True]
+2025-10-03 13:53:37.748 | ERROR    | src.telegram_utils:get_message_content:79 - Error forwarding message: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: the message can't be forwarded
+2025-10-03 13:54:28.516 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:54:28.518 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:54:46.685 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:54:46.693 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:57:08.712 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, False]
+2025-10-03 13:57:12.247 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:57:12.253 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:57:42.203 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, False]
+2025-10-03 13:57:49.513 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 13:57:49.521 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 13:59:31.326 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, True]
+2025-10-03 13:59:48.950 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, True]
+2025-10-03 14:00:58.952 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, False]
+2025-10-03 14:01:07.671 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 14:01:07.680 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 14:01:44.781 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 14:01:44.789 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
+2025-10-03 14:02:05.520 | DEBUG    | __main__:should_process_message:64 - Conditions: [True, False]
+2025-10-03 14:02:14.319 | DEBUG    | __main__:should_process_reaction:71 - Conditions: [True]
+2025-10-03 14:02:14.327 | DEBUG    | __main__:process_reaction:165 - Reaction: :high_voltage:
